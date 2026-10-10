@@ -3,3 +3,5 @@ def test():
     print("Hello")
     print("Welcome")
     return
+
+test()
